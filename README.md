@@ -1,6 +1,6 @@
 # EDUC2201: Teaching with Technology
 
-![Teaching with Technology](twitht.gif)
+![Teaching with Technology](twitht.png)
 
 > "It seems to me that that, finally, is what good teaching is all about.... Somehow or another, skill and knowledge are integrated into some kind of a human connection." ~ Mike Rose
 
@@ -8,7 +8,7 @@
 
 ---
 
-![Tree][]
+![Tree](tree.png)
 
 *This syllabus is your map for success in this course. I am here to help you to succeed in this course and in the teacher education program. I will provide you with information, models, and scaffolding in the syllabus and other companion documents. These companion documents
 include Reference Sheets, Assignment Guidelines, and Model Assignments. Success in this class involves organizing and understanding these sources of information; we will go over the syllabus in depth during the first class, and I am happy to meet with you to discuss the course and its requirements further.*
