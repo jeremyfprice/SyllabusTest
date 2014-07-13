@@ -1,7 +1,7 @@
 # Summary
 
 * [Course Overview and Expectations](Course Overview.md)
-   * [Course Expectations and Activities](Stuff.md)
+   * [Course Expectations and Activities](stuff.md)
        * [Universal Learning](/universal_learning.md)
        * [Attendance and Timeliness](/attendance.md)
        * [A Note About Communications](/a_note_about_communications.md)
